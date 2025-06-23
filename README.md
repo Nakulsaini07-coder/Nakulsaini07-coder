@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Nakul Saini
 
-<!--
-**Nakulsaini07-coder/Nakulsaini07-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 3rd Year CSE Undergrad at IIIT Sonepat
+- 🤖 Currently building [AI Code Tutor](https://github.com/Nakulsaini07-coder/ai-code-tutor)
+- 🧠 Learning Machine Learning, FastAPI, and DSA
+- 💡 Passionate about AI tools that solve real-world problems
 
-Here are some ideas to get you started:
+### 🔧 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 [AI Code Tutor](https://github.com/Nakulsaini07-coder/AI-Code-Tutor) — Explain code with AI, built using React + FastAPI + OpenAI
+
+> 💡 *More projects coming soon...*
+
+### 🚀 Skills
+
+- Python • Scikit-learn • Pandas • NumPy • Matplotlib  
+- Git • GitHub  
+- React • JavaScript • HTML/CSS • Node.js
+- LeetCode • DSA • Problem Solving  
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nakul-saini-4ba67328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: nakullsaini07@gmail.com
