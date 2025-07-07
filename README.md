@@ -33,8 +33,7 @@
 ## 💼 Projects
 
 - 🧠 <a href="https://github.com/Nakulsaini07-coder/AI-Code-Tutor"><strong>AI Code Tutor</strong></a> — Explain code with AI using React + FastAPI + OpenAI
-- 🔹 [Sonar Rock vs Mine Classification](https://github.com/Nakulsaini07-coder/Sonar_Rock_vs_Mine_Prediction)
-> Built a supervised ML model to classify sonar signals as rocks or mines using logistic regression.  
+-  [Sonar Rock vs Mine Classification](https://github.com/Nakulsaini07-coder/Sonar_Rock_vs_Mine_Prediction) — Built a supervised ML model to classify sonar signals as rocks or mines using logistic regression.  
 Achieved 83% accuracy. Tools: Python, scikit-learn, pandas, Jupyter Notebook.
 > 🛠️ More cool projects coming soon...
 
