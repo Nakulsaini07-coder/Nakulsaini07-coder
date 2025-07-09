@@ -2,7 +2,8 @@
 
 <p>
 🎓 3rd Year CSE Undergrad at <strong>IIIT Sonepat</strong> <br>
-💻 Currently Learning **Machine Learning**, **FastAPI**, and **DSA** <br>
+💻 Currently Learning <strong>Machine Learning</strong>, <strong>FastAPI</strong>, and <strong>DSA</strong> <br>
+💻 Right now gaining knowledge about various ML models and making projects using them <br>
 🚀 Passionate about AI tools that solve real-world problems
 </p>
 
