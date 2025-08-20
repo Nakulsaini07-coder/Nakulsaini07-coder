@@ -33,6 +33,7 @@
 
 ## 💼 Projects
 
+-  [Fake News Prediction](https://github.com/Nakulsaini07-coder/Fake-News-Prediction) — 🔍 A Machine Learning project that predicts whether a news article is real or fake using Natural Language Processing (NLP). The model is built with TF-IDF vectorization and a Logistic Regression classifier, achieving high accuracy on the dataset.
 -  [Sonar Rock vs Mine Classification](https://github.com/Nakulsaini07-coder/Sonar_Rock_vs_Mine_Prediction) — Built a supervised ML model to classify sonar signals as rocks or mines using logistic regression.  
 Achieved 83% accuracy. Tools: Python, scikit-learn, pandas, Jupyter Notebook.
 -  [Diabetes Prediction](https://github.com/Nakulsaini07-coder/Diabetes_Prediction) — Built a supervised ML model to predict the likelihood of diabetes in patients using SVM on the Pima Indians dataset.
