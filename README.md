@@ -33,6 +33,7 @@
 
 ## 💼 Projects
 
+-  [Wine Quality Prediction](https://github.com/Nakulsaini07-coder/Wine-Quality-Prediction) — A machine learning model that predicts wine quality using physicochemical features and Random Forest Classifier.
 -  [Loan Status Prediction](https://github.com/Nakulsaini07-coder/Loan-Status-Prediction) — A machine learning model that predicts loan approval status using Support Vector Machine (SVM) based on applicant details.
 -  [Fake News Prediction](https://github.com/Nakulsaini07-coder/Fake-News-Prediction) — 🔍 A Machine Learning project that predicts whether a news article is real or fake using Natural Language Processing (NLP). The model is built with TF-IDF vectorization and a Logistic Regression classifier, achieving high accuracy on the dataset.
 -  [Sonar Rock vs Mine Classification](https://github.com/Nakulsaini07-coder/Sonar_Rock_vs_Mine_Prediction) — Built a supervised ML model to classify sonar signals as rocks or mines using logistic regression.  
