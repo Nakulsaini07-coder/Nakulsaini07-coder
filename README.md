@@ -1,80 +1,64 @@
-<h1 align="center">👋 Hi, I'm Nakul Saini</h1>
-
-<p>
-🎓 3rd Year CSE Undergrad at <strong>IIIT Sonepat</strong> <br>
-💻 Currently Learning <strong>Machine Learning</strong>, <strong>FastAPI</strong>, and <strong>DSA</strong> <br>
-💻 Right now gaining knowledge about various ML models and making projects using them <br>
-🚀 Passionate about AI tools that solve real-world problems
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://discord.gg/tPa6VTy2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/nakul.saini_07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nakul-saini-4ba67328a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Nakulsaini07" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:nakullsaini07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💼 Projects
-
--  [Wine Quality Prediction](https://github.com/Nakulsaini07-coder/Wine-Quality-Prediction) — A machine learning model that predicts wine quality using physicochemical features and Random Forest Classifier.
--  [Loan Status Prediction](https://github.com/Nakulsaini07-coder/Loan-Status-Prediction) — A machine learning model that predicts loan approval status using Support Vector Machine (SVM) based on applicant details.
--  [Fake News Prediction](https://github.com/Nakulsaini07-coder/Fake-News-Prediction) — 🔍 A Machine Learning project that predicts whether a news article is real or fake using Natural Language Processing (NLP). The model is built with TF-IDF vectorization and a Logistic Regression classifier, achieving high accuracy on the dataset.
--  [Sonar Rock vs Mine Classification](https://github.com/Nakulsaini07-coder/Sonar_Rock_vs_Mine_Prediction) — Built a supervised ML model to classify sonar signals as rocks or mines using logistic regression.  
-Achieved 83% accuracy. Tools: Python, scikit-learn, pandas, Jupyter Notebook.
--  [Diabetes Prediction](https://github.com/Nakulsaini07-coder/Diabetes_Prediction) — Built a supervised ML model to predict the likelihood of diabetes in patients using SVM on the Pima Indians dataset.
--  [House Price Prediction](https://github.com/Nakulsaini07-coder/House-Price-Prediction) — Built a supervised ML regression model using XGBoost to predict median house prices in California based on demographic and geographic features from the scikit-learn California Housing dataset.
-- 🧠 <a href="https://github.com/Nakulsaini07-coder/AI-Code-Tutor"><strong>AI Code Tutor</strong></a> — Explain code with AI using React + FastAPI + OpenAI
-> 🛠️ More cool projects coming soon...
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
-</p>
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi, I'm Nakul Saini 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakulsaini07-coder&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakulsaini07-coder&layout=compact&theme=tokyonight" height="160"/>
+🎓 B.Tech CSE @ IIIT Sonepat (3rd Year) <br>
+🤖 AI / Machine Learning & Data Science Enthusiast <br>
+🚀 Interested in building end-to-end ML systems and deploying them
+</p>
+
+---
+
+## 👨‍💻 About Me
+I am a Computer Science undergraduate focused on **Machine Learning, Deep Learning, and applied AI systems**.  
+I enjoy working on **real-world ML problems**, building complete pipelines from data preprocessing and model training to **API-based deployment**.
+
+Currently, I am actively preparing for **AI/ML and Data Science internship roles**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CarCharcha — Car Price Prediction Platform
+**Tech:** Python, scikit-learn, LightGBM, FastAPI, Redis, Docker, Prometheus, Grafana  
+- Built an end-to-end machine learning system to predict used car prices using structured tabular data.  
+- Implemented preprocessing pipelines and trained a LightGBM regression model.  
+- Exposed predictions via a FastAPI-based REST API with authentication and caching.  
+- Deployed the system using Docker Compose with monitoring support.
+
+🔗 GitHub: https://github.com/Nakulsaini07-coder/CarCharcha
+
+---
+
+### 🔹 Image Charcha — Image Caption Generation System
+**Tech:** Python, TensorFlow, CNN, LSTM, NLP, Streamlit  
+- Developed an image captioning system using a CNN–LSTM architecture.  
+- Used DenseNet201 with transfer learning for image feature extraction.  
+- Implemented text preprocessing, tokenization, and sequence modeling for caption generation.  
+- Deployed the model using Streamlit for image-based inference.
+
+🔗 GitHub: https://github.com/Nakulsaini07-coder/Image-Charcha
+
+---
+
+## 🧠 Technical Skills
+
+**Programming:** Python, SQL  
+**Machine Learning:** Regression, Classification, Feature Engineering, Model Evaluation, EDA  
+**Deep Learning:** ANN, CNN, LSTM  
+**NLP:** Text preprocessing, tokenization, sequence modeling  
+**Frameworks & Tools:** NumPy, Pandas, scikit-learn, TensorFlow, Keras  
+**Backend & Deployment:** FastAPI, REST APIs, Docker, Docker Compose, Redis  
+**Monitoring & Dev Tools:** Prometheus, Grafana, Git, GitHub  
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nakul-saini-4ba67328a/
+- GitHub: https://github.com/Nakulsaini07-coder
+- Email: nakullsaini07@gmail.com
+
+---
+
+<p align="center">
+⭐ If you find my work interesting, feel free to explore my repositories
 </p>
