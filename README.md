@@ -36,7 +36,7 @@ Currently, I am actively preparing for **AI/ML and Data Science internship roles
 - Implemented text preprocessing, tokenization, and sequence modeling for caption generation.  
 - Deployed the model using Streamlit for image-based inference.
 
-🔗 GitHub: https://github.com/Nakulsaini07-coder/Image-Charcha
+🔗 GitHub: https://github.com/Nakulsaini07-coder/ImageCharcha
 
 ---
 
